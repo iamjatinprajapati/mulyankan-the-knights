@@ -6,7 +6,6 @@ import "@assets/novena/plugins/slick-carousel/slick/slick-theme.css";
 import "@assets/novena/css/style.css";
 
 import type { AppProps } from "next/app";
-import Scripts from "@/components/global/scripts";
 import { NextPageWithLayout } from "@/library/types";
 import { ReactElement } from "react";
 import DefaultLayout from "@/layouts/default-layout";
