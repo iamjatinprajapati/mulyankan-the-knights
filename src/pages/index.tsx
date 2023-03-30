@@ -18,8 +18,7 @@ const Home: NextPageWithLayout = () => {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <h1 className="px-5 py-3">The Knights</h1>
-      <ToggleThemeButton />
+      <h1 className="px-5 py-3">The Knights</h1>      
     </>
   );
 };
